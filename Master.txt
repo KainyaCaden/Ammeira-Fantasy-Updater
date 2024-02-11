@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
+/Ammeria Fantasy/ https://mega.nz/file/iZwUkLDL#m9uT_n1GFdLXjZbcbaCjEsJNYmbHgMDKLu2TENWHZAM
 <End of Version>
